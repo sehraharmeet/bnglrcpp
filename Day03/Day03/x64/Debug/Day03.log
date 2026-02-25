@@ -1,0 +1,18 @@
+﻿  Ex2.cpp
+  Ex3.cpp
+  Ex4.cpp
+  Ex5.cpp
+E:\2026-FebMar-Bosch\SessionCodes\Day03\Day03\Ex5.cpp(32,13): error C2512: 'Employee': no appropriate default constructor available
+      E:\2026-FebMar-Bosch\SessionCodes\Day03\Day03\Ex5.cpp(5,7):
+      see declaration of 'Employee'
+      E:\2026-FebMar-Bosch\SessionCodes\Day03\Day03\Ex5.cpp(32,13):
+      the template instantiation context (the oldest one first) is
+          E:\2026-FebMar-Bosch\SessionCodes\Day03\Day03\Ex5.cpp(47,21):
+          see reference to class template instantiation 'Stack<Employee>' being compiled
+          E:\2026-FebMar-Bosch\SessionCodes\Day03\Day03\Ex5.cpp(32,5):
+          while compiling class template member function 'Stack<Employee>::Stack(void)'
+              E:\2026-FebMar-Bosch\SessionCodes\Day03\Day03\Ex5.cpp(47,21):
+              see the first reference to 'Stack<Employee>::Stack' in 'main'
+  
+  Ex6.cpp
+  Generating Code...
