@@ -1,0 +1,108 @@
+﻿  Ex3.cpp
+  Ex4.cpp
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex3.cpp(13,5): error C2065: 'zoned_time': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex3.cpp(13,16): error C2146: syntax error: missing ';' before identifier 'zt'
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex3.cpp(13,16): error C2065: 'zt': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex3.cpp(15,13): error C2065: 'zt': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex3.cpp(16,47): error C2065: 'zt': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex3.cpp(16,13): error C3861: 'format': identifier not found
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex3.cpp(16,5): error C2593: 'operator <<' is ambiguous
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(486,39):
+      could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(454,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(436,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(418,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(400,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(382,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(364,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(346,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(328,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(309,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(283,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(264,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(230,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(212,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(206,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(200,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(195,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(481,20):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<<void>(std::nullptr_t)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(1088,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(953,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(947,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(942,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(936,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(819,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(774,31):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(738,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ostream(694,32):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+      E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex3.cpp(16,5):
+      while trying to match the argument list '(std::ostream, unknown-type)'
+  
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(9,5): error C2065: 'year': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(9,10): error C2146: syntax error: missing ';' before identifier 'y'
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(9,10): error C2065: 'y': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(10,5): error C2065: 'month': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(10,11): error C2146: syntax error: missing ';' before identifier 'm'
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(10,11): error C2065: 'm': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(11,5): error C2065: 'day': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(11,9): error C2146: syntax error: missing ';' before identifier 'd'
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(11,9): error C2065: 'd': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(13,5): error C2065: 'year_month_day': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(13,20): error C2146: syntax error: missing ';' before identifier 'ymd'
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(13,20): error C2065: 'ymd': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(13,26): error C2065: 'y': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(13,30): error C2065: 'm': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(13,34): error C2065: 'd': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(14,5): error C2065: 'sys_days': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(14,14): error C2146: syntax error: missing ';' before identifier 'start'
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(14,14): error C2065: 'start': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(14,22): error C2065: 'ymd': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(17,31): error C2065: 'days': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(17,43): error C2065: 'start': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(17,17): error C2672: 'std::chrono::duration_cast': no matching overloaded function found
+  Ex5.cpp
+      E:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\__msvc_chrono.hpp(87,19):
+      could be '_To std::chrono::duration_cast(const std::chrono::duration<_Rep,_Period> &) noexcept(<expr>)'
+          E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(17,31):
+          'std::chrono::duration_cast': invalid template argument for '_To', type expected
+  
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex4.cpp(19,28): error C3536: 'diff': cannot be used before it is initialized
+  Ex7.cpp
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex7.cpp(7,6): error C2182: 'task': this use of 'void' is not valid
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex7.cpp(7,11): error C2065: 'stop_token': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex7.cpp(7,22): error C2146: syntax error: missing ')' before identifier 'st'
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex7.cpp(8,1): error C2143: syntax error: missing ';' before '{'
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex7.cpp(8,1): error C2447: '{': missing function header (old-style formal list?)
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex7.cpp(22,5): error C2065: 'jthread': undeclared identifier
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex7.cpp(22,13): error C2146: syntax error: missing ';' before identifier 't'
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex7.cpp(22,13): error C3861: 't': identifier not found
+E:\2026-FebMar-Bosch-AdvanceCPP\Advance C++ Codes\Day05\Day05\Ex7.cpp(24,5): error C2065: 't': undeclared identifier
+  Ex8.cpp
+  Ex9.cpp
+  Generating Code...
